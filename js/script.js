@@ -31,7 +31,7 @@
     stopSearchAnim();
   });
 
-  Share
+  // Share
   $('body').on('click', function(){
     $('.article-share-box.on').removeClass('on');
   }).on('click', '.article-share-link', function(e){
