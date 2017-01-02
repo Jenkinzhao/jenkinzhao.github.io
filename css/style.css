@@ -126,7 +126,7 @@ body,
 body {
   background: #fff;
   font: 14px/1.9em "Helvetica Neue", Helvetica, Arial, sans-serif;
-  -webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 150%;
 }
 .outer {
   zoom: 1;
